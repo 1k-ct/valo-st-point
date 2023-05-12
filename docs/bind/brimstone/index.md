@@ -5,4 +5,4 @@ has_children: true
 parent: bind
 ---
 
-![sample](/image/valorant_sample.png)
+![sample](/valo-st-point/image/valorant_sample.png)

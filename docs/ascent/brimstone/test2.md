@@ -5,4 +5,4 @@ parent: brimstone
 grand_parent: ascent
 ---
 
-![sample](/image/valorant_sample.png)
+![sample](/valo-st-point/image/valorant_sample.png)

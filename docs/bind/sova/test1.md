@@ -5,4 +5,4 @@ parent: sova
 grand_parent: bind
 ---
 
-![sample](/image/valorant_sample.png)
+![sample](/valo-st-point/image/valorant_sample.png)
